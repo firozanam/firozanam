@@ -143,29 +143,26 @@ console.log("Welcome to my digital world! 🌍");
 
 ---
 
-## 🏆 Achievements & Milestones
-
+🏆 Achievements & Milestones
 <div align="center">
-  
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🎯_Founder_&_CEO-Neurotech_System-00D4FF?style=for-the-badge&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/Founder_&_CEO-Neurotech_System-00D4FF?style=for-the-badge&labelColor=000000&logo=rocket"/>
         <br><br>
-        <img src="https://img.shields.io/badge/🚀_Projects_Delivered-50+-FF6B6B?style=for-the-badge&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/Projects_Delivered-50+-FF6B6B?style=for-the-badge&labelColor=000000&logo=checkmark"/>
         <br><br>
-        <img src="https://img.shields.io/badge/💡_AI_Integrations-Advanced-4ECDC4?style=for-the-badge&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/AI_Integrations-Advanced-4ECDC4?style=for-the-badge&labelColor=000000&logo=brain"/>
       </td>
       <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/🔧_Full_Stack_Expert-5+_Years-45B7D1?style=for-the-badge&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/Full_Stack_Expert-5+_Years-45B7D1?style=for-the-badge&labelColor=000000&logo=code"/>
         <br><br>
-        <img src="https://img.shields.io/badge/📈_Team_Leadership-High_Performance-96CEB4?style=for-the-badge&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/Team_Leadership-High_Performance-96CEB4?style=for-the-badge&labelColor=000000&logo=users"/>
         <br><br>
-        <img src="https://img.shields.io/badge/🌟_Client_Satisfaction-99%-FFEAA7?style=for-the-badge&labelColor=000000"/>
+        <img src="https://img.shields.io/badge/Client_Satisfaction-99%25-FFEAA7?style=for-the-badge&labelColor=000000&logo=star"/>
       </td>
     </tr>
   </table>
-  
 </div>
 
 ---
