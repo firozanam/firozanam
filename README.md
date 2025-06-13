@@ -59,7 +59,7 @@ I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital exper
 ## 🏢 Company Spotlight
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=🧠%20Neurotech%20System&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=🧠%20Neurotech%20System&fontSize=40&fontColor=ffffff&animation=fadeIn&radius=15" />
   
   <h3 style="color: #00D4FF;">💼 Specialized Software Development Company</h3>
   <p style="font-size: 18px; color: #888;">🚀 Building highly scalable Web/Mobile and AI Applications</p>
