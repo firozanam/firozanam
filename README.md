@@ -176,7 +176,7 @@ console.log("Welcome to my digital world! 🌍");
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://wa.me/8801788544788)
   [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://www.neurotechsystem.com)
   
-  <br><br>
+  <br>
   
   <img src="https://img.shields.io/badge/📞_Phone-+8801_788_544_788-00D4FF?style=for-the-badge&labelColor=000000"/>
   
@@ -187,8 +187,6 @@ console.log("Welcome to my digital world! 🌍");
 <div align="center">
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Quote"/>
-  
-  <br><br>
   
   ### 💫 Thanks for visiting my profile! 
   
