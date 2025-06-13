@@ -77,10 +77,6 @@ I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital exper
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=firozanam&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-  
-  <br><br>
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firozanam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozanam&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
   
@@ -88,10 +84,6 @@ I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital exper
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=firozanam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=firozanam&theme=react-dark&bg_color=0d1117&hide_border=true&line=00d4ff&point=ff6b6b&color=ffffff" alt="GitHub Activity Graph"/>
-
 </div>
 
 ---
