@@ -79,9 +79,6 @@ I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital exper
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firozanam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozanam&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
-  
-  <br><br>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=firozanam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
