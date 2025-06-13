@@ -22,31 +22,31 @@ I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital exper
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🔥 **Backend Powerhouse**
+### 🔥 **Backend Technologies**
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000" alt="PHP"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=000000" alt="Laravel"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000" alt="Node.js"/>
 </p>
 
-### ⚡ **Frontend Magic**
+### ⚡ **Frontend Technologies**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000" alt="React"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000" alt="Tailwind CSS"/>
 </p>
 
-### 🗄️ **Database Mastery**
+### 🗄️ **Databases**
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" alt="MySQL"/>
 </p>
 
-### 🎯 **Full Stack Excellence**
+### 🎯 **Full Stack**
 <p>
   <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=000000" alt="MERN Stack"/>
   <img src="https://img.shields.io/badge/API-Development-FF6B6B?style=for-the-badge&logo=postman&logoColor=white&labelColor=000000" alt="API Development"/>
@@ -86,7 +86,7 @@ I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital exper
   
   <br><br>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firozanam&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=firozanam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
   <br><br>
   
@@ -98,7 +98,7 @@ I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital exper
 
 ## 🎯 Developer Profile
 
-<div align="center">
+<div align="left">
 
 ```typescript
 interface Developer {
