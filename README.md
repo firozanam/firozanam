@@ -18,6 +18,9 @@ I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital exper
 - 🎨 **Passion**: Creating digital experiences that inspire and delight
 - ⚡ **Fun Fact**: I debug with coffee and deploy with confidence!
 
+  <h3 style="color: #008000;">👨🏻‍💻 Contribution Heatmap</h3>
+  <img src="https://ghchart.rshah.org/008000/firozanam" alt="GitHub Contribution Chart" width="100%"/>
+
 <br clear="both"/>
 
 ---
@@ -80,7 +83,7 @@ I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital exper
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=firozanam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firozanam&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=firozanam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
+
 </div>
 
 ---
