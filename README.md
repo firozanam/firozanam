@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm the **Founder & CEO of Neurotech System** 🧠, where we craft digital experiences that push the boundaries of what's possible. With a passion for clean code and innovative solutions, I transform complex ideas into scalable, beautiful applications that make a real impact.
+I'm the **Founder & CEO of Neuronic Lab** 🧠, where we craft digital experiences that push the boundaries of what's possible. With a passion for clean code and innovative solutions, I transform complex ideas into scalable, beautiful applications that make a real impact.
 
 🎯 **Mission**: Building the future of software, one line of code at a time
 
@@ -107,7 +107,7 @@ interface Developer {
 const firozAnam: Developer = {
   name: "Firoz Anam",
   role: "Full Stack Developer & Founder",
-  company: "Neurotech System",
+  company: "Neuronic Lab",
   location: "Kushtia, Bangladesh 🇧🇩",
   specialties: [
     "🚀 Scalable Web Applications",
