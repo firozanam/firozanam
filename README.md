@@ -1,6 +1,6 @@
 # Hi there, I'm Firoz Anam! 👋
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1B5E7B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Architect;AI+Enthusiast;Founder+%40+Neurotech+System" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=1B5E7B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Architect;AI+Enthusiast;Founder+%40+Neuronic+Lab" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
